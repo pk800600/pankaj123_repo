@@ -8,14 +8,7 @@ public class GitPractice2Test {
 		
 		System.out.println("Practice 1");
 	}
-	//hello git
-	//hiii
-
-
-	//hii
-	//that is the pull process
-	//change the branch
-
+	//hello new changes
 
 
 }
